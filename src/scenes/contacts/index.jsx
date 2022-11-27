@@ -66,7 +66,7 @@ const Contacts = () => {
             color: `${colors.greenAccent[200]} !important`,
           },
           "& .MuiDataGrid-toolbarContainer .MuiButton-text": {
-            color: `${colors.gray[100]} !important`,
+            color: `${colors.grey[100]} !important`,
           },
         }}
       >
