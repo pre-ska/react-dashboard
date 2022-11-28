@@ -1,6 +1,6 @@
 # Dasboard
 
-[DEMO](https://preska-mui-dashboard.netlify.app/calendar)
+[DEMO](https://preska-mui-dashboard.netlify.app/)
 
 ##### React, Typescript
 
